@@ -5,6 +5,8 @@ how to interface the linux `perf` tool with `ebpf` by tracking
 some perf information about the various chrome processes on
 christian's laptop.
 
+I am using the eunomia ebpf tutorial: https://eunomia.dev/en/tutorials/1-helloworld/
+
 
 Laptop details:
 
